@@ -16956,5 +16956,18 @@
 				<Option Goto="2573" Text="Беги"/>
 			</Options>
 		</Paragraph>
+		<Paragraph No="2573">
+			<Text>Вот как ты будешь крутить:\n\nЗакрой глаза и закрути свой палец по колесу на этой странице. Затем останови его где-нибудь на колесе. Посмотри, на каком числе ты остановился. И иди на выпавшую страницу.</Text>
+			<Options>
+				<Option Goto="2579" Text="15"/>
+				<Option Goto="2579" Text="15"/>
+				<Option Goto="2602" Text="38"/>
+				<Option Goto="2602" Text="38"/>
+				<Option Goto="2613" Text="49"/>
+				<Option Goto="2613" Text="49"/>
+				<Option Goto="2583" Text="19"/>
+				<Option Goto="2583" Text="19"/>
+			</Options>
+		</Paragraph>
 	</Paragraphs>
 </Gamebook>
