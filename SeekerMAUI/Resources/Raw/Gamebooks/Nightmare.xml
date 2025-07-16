@@ -17202,5 +17202,11 @@
 				<Option Goto="2662" Text="Иди"/>
 			</Options>
 		</Paragraph>
+		<Paragraph No="2610">
+			<Text>Ты падаешь... Падаешь... Всё происходит как будто в замедленной съёмке. Неужели это... конец?\n\nДа.</Text>
+			<Options>
+				<Gameover/>
+			</Options>
+		</Paragraph>
 	</Paragraphs>
 </Gamebook>
