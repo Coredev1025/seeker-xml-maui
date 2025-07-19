@@ -96,7 +96,7 @@
 				<Option Goto="2565" Text="Побег с карнавала ужасов" Image="Escape">
 					<Text Style="Small, Upper">Escape from the Carnival of Horrors, 1995</Text>
 				</Option>
-				<Option Goto="2700" Text="Возвращение на карнавал ужасов" Image="Return">
+				<Option Goto="2700" Text="Возвращение на карнавал ужасов" Image="Escape2">
 					<Text Style="Small, Upper">Return to the Carnival of Horrors, 1997</Text>
 				</Option>
 			</Options>
