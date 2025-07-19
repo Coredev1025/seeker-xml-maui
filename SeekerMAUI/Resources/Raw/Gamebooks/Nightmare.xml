@@ -27,6 +27,7 @@
 				<Item Name="2428" Value="6e1124"/>
 				<Item Name="2565" Value="155020"/>
 				<Item Name="2700" Value="1d4058"/>
+				<Item Name="2837" Value="474c88"/>
 			</Buttons>
 		</Dictionaries>
 		<Buttons>
@@ -98,6 +99,9 @@
 				</Option>
 				<Option Goto="2700" Text="Возвращение на карнавал ужасов" Image="Escape2">
 					<Text Style="Small, Upper">Return to the Carnival of Horrors, 1997</Text>
+				</Option>
+				<Option Goto="2837" Text="Оборотни безумничьего домика" Image="House">
+					<Text Style="Small, Upper">The Werewolf of Twisted Tree Lodge, 1998</Text>
 				</Option>
 			</Options>
 		</Paragraph>
