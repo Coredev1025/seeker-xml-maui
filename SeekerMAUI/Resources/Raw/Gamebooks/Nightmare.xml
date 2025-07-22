@@ -28,6 +28,7 @@
 				<Item Name="2565" Value="155020"/>
 				<Item Name="2700" Value="1d4058"/>
 				<Item Name="2837" Value="474c88"/>
+				<Item Name="2974" Value="356734"/>
 			</Buttons>
 		</Dictionaries>
 		<Buttons>
@@ -102,6 +103,9 @@
 				</Option>
 				<Option Goto="2837" Text="Оборотни безумничьего домика" Image="House">
 					<Text Style="Small, Upper">The Werewolf of Twisted Tree Lodge, 1998</Text>
+				</Option>
+				<Option Goto="2974" Text="Пойманный в Нетопырь-Холле" Image="Bat">
+					<Text Style="Small, Upper">Trapped in Bat Wing Hall, 1995</Text>
 				</Option>
 			</Options>
 		</Paragraph>
