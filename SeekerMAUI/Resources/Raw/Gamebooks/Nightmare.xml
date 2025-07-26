@@ -30,6 +30,7 @@
 				<Item Name="2837" Value="474c88"/>
 				<Item Name="2974" Value="356734"/>
 				<Item Name="3112" Value="784f92"/>
+				<Item Name="3248" Value="6f2b23"/>
 			</Buttons>
 		</Dictionaries>
 		<Buttons>
@@ -110,6 +111,9 @@
 				</Option>
 				<Option Goto="3112" Text="Добро пожаловать в музей мадам Злодье" Image="Museum">
 					<Text Style="Small, Upper">Welcome to the Wicked Wax Museum, 1996</Text>
+				</Option>
+				<Option Goto="3248" Text="Маленький магазинчик ужасных комиксов" Image="Shop">
+					<Text Style="Small, Upper">Little Comic Shop of Horrors, 1997</Text>
 				</Option>
 			</Options>
 		</Paragraph>
