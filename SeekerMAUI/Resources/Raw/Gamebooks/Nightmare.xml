@@ -31,6 +31,7 @@
 				<Item Name="2974" Value="356734"/>
 				<Item Name="3112" Value="784f92"/>
 				<Item Name="3248" Value="6f2b23"/>
+				<Item Name="3385" Value="ae4543"/>
 			</Buttons>
 		</Dictionaries>
 		<Buttons>
@@ -114,6 +115,9 @@
 				</Option>
 				<Option Goto="3248" Text="Маленький магазинчик ужасных комиксов" Image="Shop">
 					<Text Style="Small, Upper">Little Comic Shop of Horrors, 1997</Text>
+				</Option>
+				<Option Goto="3385" Text="Безумные сказки острова Тики" Image="Tales">
+					<Text Style="Small, Upper">The Twisted Tale of Tiki Island, 1997</Text>
 				</Option>
 			</Options>
 		</Paragraph>
