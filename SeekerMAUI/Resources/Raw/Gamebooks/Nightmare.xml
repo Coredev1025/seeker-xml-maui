@@ -117,11 +117,11 @@
 				<Option Goto="3248" Text="Маленький магазинчик ужасных комиксов" Image="Shop">
 					<Text Style="Small, Upper">Little Comic Shop of Horrors, 1997</Text>
 				</Option>
-				<Option Goto="3385" Text="Безумные сказки острова Тики" Image="Tales">
-					<Text Style="Small, Upper">The Twisted Tale of Tiki Island, 1997</Text>
-				</Option>
 				<Option Goto="3522" Text="Секретный агент Бабуля" Image="Granny">
 					<Text Style="Small, Upper">Secret Agent Grandma, 1997</Text>
+				</Option>
+				<Option Goto="3385" Text="Безумные сказки острова Тики" Image="Tales">
+					<Text Style="Small, Upper">The Twisted Tale of Tiki Island, 1997</Text>
 				</Option>
 			</Options>
 		</Paragraph>
