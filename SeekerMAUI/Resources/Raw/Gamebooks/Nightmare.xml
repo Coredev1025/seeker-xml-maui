@@ -33,6 +33,7 @@
 				<Item Name="3248" Value="6f2b23"/>
 				<Item Name="3385" Value="ae4543"/>
 				<Item Name="3522" Value="7398a4"/>
+				<Item Name="3653" Value="6d1a4b"/>
 			</Buttons>
 		</Dictionaries>
 		<Buttons>
@@ -122,6 +123,9 @@
 				</Option>
 				<Option Goto="3385" Text="Безумные сказки острова Тики" Image="Tales">
 					<Text Style="Small, Upper">The Twisted Tale of Tiki Island, 1997</Text>
+				</Option>
+				<Option Goto="3653" Text="Похититель времени" Image="Time">
+					<Text Style="Small, Upper">The Time Raider, 1982</Text>
 				</Option>
 			</Options>
 		</Paragraph>
