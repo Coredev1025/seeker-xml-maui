@@ -24549,5 +24549,11 @@
 				<Gameover/>
 			</Options>
 		</Paragraph>
+		<Paragraph No="3717">
+			<Text>Возможно, ты застрял во временной петле. Если это так, выхода нет.</Text>
+			<Options>
+				<Option Goto="3719" Text="Быстрее!"/>
+			</Options>
+		</Paragraph>
 	</Paragraphs>
 </Gamebook>
