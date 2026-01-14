@@ -24561,5 +24561,11 @@
 				<Gameover/>
 			</Options>
 		</Paragraph>
+		<Paragraph No="3719">
+			<Text>Ничто не может исказить разум быстрее, чем временная петля.</Text>
+			<Options>
+				<Option Goto="3717" Text="Вернись"/>
+			</Options>
+		</Paragraph>
 	</Paragraphs>
 </Gamebook>
